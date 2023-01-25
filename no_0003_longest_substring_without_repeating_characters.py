@@ -11,7 +11,7 @@
 # testcase.
 
 # Visible at
-# https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/885246629/
+# https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/885253125/
 
 class Solution:
     # This solution successively declares a starting index for the substr
