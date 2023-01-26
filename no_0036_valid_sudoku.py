@@ -1,6 +1,21 @@
 #!/usr/bin/python3
 
-# Is visible here:
+# 36. Valid Sudoku
+# 
+# Determine if a 9 x 9 Sudoku board is valid. Only the filled cells need to be
+# validated according to the following rules:
+#
+#     Each row must contain the digits 1-9 without repetition. column must
+#     Each contain the digits 1-9 without repetition. of the nine 3 x 3
+#     Each sub-boxes of the grid must contain the digits 1-9 without repetition.
+#
+# Note:
+#
+#     A Sudoku board (partially filled) could be valid but is not necessarily
+#     solvable. Only the filled cells need to be validated according to the
+#     mentioned rules.
+
+# Visible here:
 # https://leetcode.com/problems/valid-sudoku/submissions/885309926/
 
 class Solution:
