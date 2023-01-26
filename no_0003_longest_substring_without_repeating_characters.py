@@ -1,14 +1,10 @@
 #!/usr/bin/python3
 
 # 3. Longest Substring Without Repeating Characters
+# [Medium]
 #
 # Given a string s, find the length of the longest substring without repeating
 # characters.
-
-# Not my solution; adapted from
-# https://leetcode.com/problems/longest-substring-without-repeating-characters/solutions/811812/python-3-sliding-window-technique/ 
-# My solution ran in O(n^m) time and was thwarted by a deliberately overlong
-# testcase.
 
 # Visible at
 # https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/885253125/

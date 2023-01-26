@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 # 226. Invert Binary Tree
+# [Easy]
 #
 # Given the root of a binary tree, invert the tree, and return its root.
 #
@@ -10,6 +11,9 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
+# Visible here:
+# https://leetcode.com/problems/invert-binary-tree/submissions/885396128/
 
 class Solution:
     # A simple recursive algorithm solves this; implemented using a private
