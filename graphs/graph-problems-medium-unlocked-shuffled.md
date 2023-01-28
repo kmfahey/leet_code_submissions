@@ -1,5 +1,5 @@
 🗸 [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability) | 48.5%| Medium| 210|
-[Loud and Rich](https://leetcode.com/problems/loud-and-rich) | 58.5%| Medium| 1615|
+🗸 [Loud and Rich](https://leetcode.com/problems/loud-and-rich) | 58.5%| Medium| 1615|
 [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected) | 58.7%| Medium| 851|
 [Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree) | 48.3%| Medium| 261|
 [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities) | 46.2%| Medium| 1311|
