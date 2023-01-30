@@ -1,5 +1,5 @@
 | 🗸 | [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses) | 73.0%| Medium| 2225|
-|   | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) | 50.1%| Medium| 435|
+| ½ | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) | 50.1%| Medium| 435|
 |   | [Count Words Obtained After Adding a Letter](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter) | 42.8%| Medium| 2135|
 |   | [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii) | 50.5%| Medium| 1424|
 |   | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid) | 52.4%| Medium| 2033|
