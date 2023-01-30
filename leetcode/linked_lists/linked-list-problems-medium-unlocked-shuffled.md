@@ -1,4 +1,4 @@
-|   | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) | 61.5%| Medium| 114|
+| 🗸 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) | 61.5%| Medium| 114|
 |   | [Design Browser History](https://leetcode.com/problems/design-browser-history) | 76.2%| Medium| 1472|
 |   | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts) | 57.3%| Medium| 725|
 |   | [Design Twitter](https://leetcode.com/problems/design-twitter) | 37.0%| Medium| 355|
@@ -7,7 +7,7 @@
 |   | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list) | 59.9%| Medium| 2095|
 |   | [Reorder List](https://leetcode.com/problems/reorder-list) | 51.9%| Medium| 143|
 |   | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) | 45.7%| Medium| 82|
-|   | [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list) | 43.1%| Medium| 1171|
+| 🗸 | [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list) | 43.1%| Medium| 1171|
 |   | [Partition List](https://leetcode.com/problems/partition-list) | 51.7%| Medium| 86|
 |   | [Linked List Components](https://leetcode.com/problems/linked-list-components) | 57.9%| Medium| 817|
 |   | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | 40.6%| Medium| 19|
